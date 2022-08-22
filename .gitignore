@@ -5,3 +5,5 @@
 /Plugins
 *.sln
 *_BuiltData.uasset
+/시작해요언리얼프로젝트/Saved
+/시작해요언리얼프로젝트/Intermediate
